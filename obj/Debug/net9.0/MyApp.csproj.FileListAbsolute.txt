@@ -7,6 +7,7 @@
 /Users/yorfig/Desktop/installationLab/dotnet/MyApp/obj/Debug/net9.0/MyApp.AssemblyInfoInputs.cache
 /Users/yorfig/Desktop/installationLab/dotnet/MyApp/obj/Debug/net9.0/MyApp.AssemblyInfo.cs
 /Users/yorfig/Desktop/installationLab/dotnet/MyApp/obj/Debug/net9.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/yorfig/Desktop/installationLab/dotnet/MyApp/obj/Debug/net9.0/MyApp.sourcelink.json
 /Users/yorfig/Desktop/installationLab/dotnet/MyApp/obj/Debug/net9.0/MyApp.dll
 /Users/yorfig/Desktop/installationLab/dotnet/MyApp/obj/Debug/net9.0/refint/MyApp.dll
 /Users/yorfig/Desktop/installationLab/dotnet/MyApp/obj/Debug/net9.0/MyApp.pdb
